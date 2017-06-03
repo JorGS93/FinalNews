@@ -1,0 +1,208 @@
+body{
+	background-image: url(../img/congruent_pentagon.png);
+	overflow-x: hidden;
+
+}
+
+.noticia1{
+	margin-left: 7%;
+	border-radius: 5px;
+}
+
+.noticia2{
+	margin-top: 100px;
+	margin-left: 7%;
+	border-radius: 5px;
+}
+
+.noticia3{
+		margin-top: 200px;
+	margin-left: 7%;
+	border-radius: 5px;
+}
+
+.noticiax{
+
+	margin-left: 7%;
+	border-radius: 5px;
+}
+#fecha{
+	font-family: 'Oswald', sans-serif ;
+	font-size:20px;
+}
+
+#titlenew{
+font-family: 'Oswald', sans-serif ;
+
+}
+
+.lead{
+	font-family: 'Oswald', sans-serif ;
+
+}
+.noticias{
+	margin-top: 200px;
+	padding-top: 20px;
+}
+
+.noticias2{
+		margin-top: 50px;
+	padding-top: 20px;
+}
+
+.fotos{
+	border-style: solid;
+	border-radius: 2px;
+}
+.fotos1{
+	border-style: solid;
+	border-radius: 2px;
+}
+
+#cajon2{
+
+}
+
+.imgtxt{
+	margin-top: 19px;
+	border-style: solid;
+	border-color: grey;
+	border-width: 2px;
+	 box-shadow: 10px 10px 5px #888888;
+}
+
+.centerimg{
+	    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.contenedornews{
+	width: 100%;
+}
+
+.principal{
+	margin-top: 51px;
+	height: 220px;
+	background-color: #66c2ff;
+	width: 80%;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.molona{
+margin-left: -30px;
+}
+
+#textaco{
+	margin-top: 75px;
+	position: absolute;
+	color: white;
+}
+
+.jumbotron{
+	text-align: center;
+	padding-right: 60px;
+    padding-left: 60px;
+}
+.jumbotron p{
+	    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+#descripcion{
+	font-family: 'Oswald', sans-serif ;
+	font-size:20px;
+}
+
+.descripcion{
+	font-family: 'Oswald', sans-serif ;
+	font-size:20px;
+}
+
+#cajon2{
+
+	
+}
+
+#cargarNoticias{
+margin-top: 150px;
+margin-left: 4px;
+
+}
+
+.publi{
+
+	top: 832px;
+	position: absolute;
+	width: 300px;
+	height: 600px;
+	bottom: 0;
+}
+#botonpadre{
+	text-align: center;
+}
+#boton{
+
+	margin-top: 50px;
+}
+#botonpadre2{
+	text-align: center;
+}
+#boton2{
+
+	margin-top: 50px;
+}
+
+
+.lineafina{
+	width: 100%;
+	text-align: center;
+
+}
+
+#minitexto{
+	text-align: center;
+}
+
+.publifoto{
+	height: 100%;
+	width: 100%;
+	margin-left: 180px;
+}
+/* CSS PLANTILLA  /*/
+
+.contenedornoticia{
+	text-align: center;
+	width: 80%;
+}
+
+#titulonew{
+
+}
+
+#descnew{
+	padding-top: 50px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif ;
+	font-size: 20px;
+
+
+}
+
+#contenedordesc{
+	width: 50%;
+	margin-left: 24%;
+}
+
+.fondoplantilla{
+	background-image: url(../img/nice.jpg) ;
+	border-bottom: 1px solid grey;
+
+}
+
+#fondito{
+	background-image: url(../img/cloudy-day.png);
+
+}

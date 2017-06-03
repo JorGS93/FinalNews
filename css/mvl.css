@@ -1,0 +1,146 @@
+body{
+	background-image: url(../img/congruent_pentagon.png);
+	overflow-x: hidden;
+
+}
+.noticias2{
+		margin-top: 50px;
+	padding-top: 20px;
+}
+
+
+}
+.noticia1{
+
+
+	border-radius: 5px;
+}
+
+.noticia2{
+
+
+	border-radius: 5px;
+}
+.noticia3{
+
+	border-radius: 5px;
+}
+
+.noticiax{
+
+	margin-top: 50px;
+	padding-top: 20px;
+}
+.centerimg{
+	    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.imgtxt{
+	margin-top: 19px;
+	border-style: solid;
+	border-color: grey;
+   box-shadow: 7px 7px 4px #888888;
+}
+
+.contenedornews{
+	width: 100%;
+}
+
+.principal{
+	margin-top: 53px;
+	height: 220px;
+	background-color: #66c2ff;
+	width: 80%;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.molona{
+margin-left: -30px;
+}
+
+#textaco{
+	margin-top: 75px;
+	position: absolute;
+		color: white;
+}
+
+.jumbotron{
+	text-align: center;
+	padding-right: 60px;
+    padding-left: 60px;
+}
+.jumbotron p{
+	    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+#boton{
+
+	margin-top: 100px;
+}
+
+#cajon{
+
+	background-image: url(..img/congruent_pentagon.png);
+}
+
+.publi{
+z-index: 100;
+	position: fixed;
+	width: 500px;
+	height: 100px;
+	bottom: 0;
+
+
+}
+
+.lineafina{
+	width: 100%;
+	text-align: center;
+
+}
+
+#minitexto{
+	text-align: center;
+}
+
+.publifoto{
+	height: 100%;
+	width: 100%;
+}
+/* CSS PLANTILLA  /*/
+
+
+.contenedornoticia{
+	text-align: center;
+	width: 80%;
+}
+
+#titulonew{
+	padding-top: 50px;
+}
+
+#descnew{
+	padding-top: 50px;
+	text-align: center;
+
+}
+
+#contenedordesc{
+	width: 50%;
+	margin-left: 24%;
+}
+
+.fondoplantilla{
+	background-image: url(..img/nice.jpg) ;
+	border-bottom: 1px solid grey;
+
+}
+
+#fondito{
+	background-image: url(..img/cloudy-day.png);
+
+}
