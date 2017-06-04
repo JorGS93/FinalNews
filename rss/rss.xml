@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+		<title>e-News, tu página de e-sports</title>
+		<link>https://rawgit.com/JorGS93/FinalNews/master/newsTEST.html</link>
+		<description>En esta página podrás encontrar las noticias más actuales relacionadas con deportes electrónicos tanto a nivel nacional como mundial.
+		</description>
+
+		<item>
+		<title>Finales de la ESL Pro League</title>
+		<link> ttps://rawgit.com/JorGS93/FinalNews/master/plantilla.html</link>
+		<description>En esta página podrás encontrar las noticias más actuales relacionadas con deportes electrónicos tanto a nivel nacional como mundial.
+		</description>
+		</item>
+
+
+		<item>
+	    <title>La IEM Katowice finaliza con un primer puesto para Astralis</title>
+	    <link>https://rawgit.com/JorGS93/FinalNews/master/plantilla2.html</link>
+	    <description>Este año, 12 de los equipos más en forma del mundo tendrán que luchar por el título y buena parte de los 250 000 dólares en premios destinados para el Counter-Strike en un torneo que contará con una fase de grupos y unos playoffs y que durará desde hoy, 1 de marzo, hasta el próximo domingo día 5, momento en el que veremos la gran final después de que DJ Hardwell sea el protagonista de la gala de clausura pinchando unos temas en directo.
+	    </description>
+		</item>
+
+
+		<item>
+	    <title>Llega a España GO4CS:GO ALL STARS</title>
+	    <link>https://rawgit.com/JorGS93/FinalNews/master/plantilla3.html</link>
+	    <description>ESL, famosa compañía de Esports a nivel mundial, ha anunciado el lanzamiento de GO4CS:GO All Stars, un evento presencial patrocinado por El Corte Inglés. Junto a esta empresa colaborarán otras del ámbito electrónico como son HP e Intel, todas ellas con el fin de reforzar el impacto de Counter Strike en el territorio nacional.El evento dará comienzo el próximo 29 de abril  en El Corte Inglés de Callao (Madrid), en él se enfrentarán los mejores equipos de la OMEN by HP GO4CS:GO, un open mensual con una bolsa de premios de 1.000€..
+	    </description>
+		</item>
+
+
+
+	</channel>
+
+</rss>
