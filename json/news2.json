@@ -1,0 +1,20 @@
+[{
+
+		"titulo": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+		"img": "img/lol.jpg",
+		"fecha": "01/06/2017",
+		"descripcion": "Riot Games ha abierto las inscripciones de equipos para la nueva Liga Norteamericana de League of Legends.Hasta ahora, los puestos de los equipos de la Liga se decidían mediante torneos previos entre equipos y variaban cada año. A partir de ahora, la Liga tendrá 10 puestos fijos que se comprarán por 10 millones de dólares cada uno. Tan solo si un equipo queda habitualmente entre los dos últimos puestos durante un periodo de 4 años se planteará la opción de quitarles la plaza y dársela a otro comprador"
+	}, {
+
+		"titulo": "Missharvey, la mejor jugadora de esports del mundo",
+		"img": "img/miss.jpg",
+		"fecha": "27/05/2017",
+		"descripcion": "Stephanie Harvey comparte con Polly Jean Harvey algo más que el apellido. Es verdad que resulta complicado relacionar a dos mujeres de generaciones distintas (la primera nació en 1986 y la segunda en 1969), de dos países muy diferentes (canadiense una, británica la otra) y que se dedican a dos actividades sin relación ninguna: Stephanie es la mejor jugadora del mundo de Counter Strike mientras que PJ es una de las compositoras e intérpretes de rock más importantes de las últimas décadas"
+	},{
+
+		"titulo": "G2 Vodafone llega a la taberna",
+		"img": "img/g2.png",
+		"fecha": "22/05/2017",
+		"descripcion": "Tras League of Legends y Counter Strike, G2 Vodafone entra en Hearthstone: la sección nacional del club creado por Carlos ‘Ocelote’ Rodríguez continúa con su expansión en el panorama español. Tal y como ocurriese en el momento en el que decidieron apostar por CS:GO, el inminente estreno de la competición ESL Masters, en su edición de Hearthstone, ha propiciado que el club de el paso"
+
+	}]
