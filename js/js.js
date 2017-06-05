@@ -22,7 +22,7 @@ $(document).ready(function(){
 
 	});
 
-    $.getJSON( "https://rawgit.com/JorGS93/NoticiasWeb/master/js/news2.json", function( jsonObject ) {
+    $.getJSON( "https://rawgit.com/JorGS93/FinalNews/master/json/news2.json", function( jsonObject ) {
      datos2=jsonObject;
 
 
