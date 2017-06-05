@@ -46,6 +46,8 @@ $(document).ready(function(){
 
      } 
  });
+$('#facebook').append($('<a>',{href:'https://www.facebook.com/share.php?u='+url,rel:'nofollow', id:'fb'}));
+$('#fb').append($('<img>',{src:'img/fb.png', alt:'FB'}));
 
 
 
