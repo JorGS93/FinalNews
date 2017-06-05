@@ -1,6 +1,8 @@
 var datos1=null;
 var datos2=null;
 var pos=0;
+var url = encodeURIComponent('https://rawgit.com/JorGS93/FinalNews/master/newsTEST.html');
+var title='Electronic Sports News';
 
 $('#mainNav').affix({
   offset: {
